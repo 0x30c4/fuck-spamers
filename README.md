@@ -1,4 +1,4 @@
-# Fuck Spamers And Fishers
+# Fuck Spamers And Phisher
 
-## This script sends fake email and password combination to the targeted fishing site.
+## This script sends fake email and password combination to the targeted phishing site.
 
