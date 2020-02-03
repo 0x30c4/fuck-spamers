@@ -1,0 +1,2 @@
+# Fuck Spamers And Fishers
+
